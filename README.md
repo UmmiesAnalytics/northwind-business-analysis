@@ -61,7 +61,40 @@ Dashboard screenshots are available in the `screenshots` folder.
 - How does sales performance change over time?
 - What patterns can be identified in customer activity?
 - How does employee performance vary?
+## Key Findings
 
+The analysis produced the following findings:
+
+### 1. Overall Business Performance
+- Total revenue reached approximately **$1.35 million**.
+- The business recorded **830 orders** across **93 customers**.
+- A total of **77 products** contributed to the sales activity.
+- Approximately **51,000 units** were sold.
+
+### 2. Sales Performance
+- April 1998 recorded the highest monthly sales, reaching **$134,630.56**.
+- The 1997 reporting period generated approximately **$658,390** in sales.
+- The 1998 reporting period generated approximately **$469,770**, covering only January to May.
+
+### 3. Product Performance
+- Beverages was the leading product category by sales.
+- Category-level performance provides a basis for evaluating product contribution and identifying opportunities for growth.
+
+### 4. Geographic Performance
+- The United States ranked first among the five leading sales countries.
+- Geographic sales analysis helps identify important markets and potential expansion opportunities.
+
+## Business Recommendations
+
+Based on the findings, the following actions are recommended:
+
+1. **Strengthen high-performing product categories:** Review the factors driving beverage sales and use those insights to guide inventory and product planning.
+2. **Improve sales forecasting:** Use historical monthly sales trends to support demand planning and revenue forecasting.
+3. **Prioritise key markets:** Maintain strong customer relationships in leading markets while evaluating opportunities in other geographic regions.
+4. **Monitor employee performance:** Use employee-level sales indicators to identify training needs and opportunities to improve sales effectiveness.
+5. **Improve performance monitoring:** Track revenue, order volume, average order value and product contribution through regular KPI reporting.
+
+*Note: These recommendations are based on the patterns identified in the historical Northwind dataset. They are analytical recommendations, not evidence of actions already implemented.*
 ## Business Value
 
 The analysis provides a structured view of business performance and supports better-informed decisions around revenue generation, product strategy, customer engagement and operational performance.

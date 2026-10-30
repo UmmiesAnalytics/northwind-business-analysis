@@ -133,7 +133,14 @@ northwind-business-analysis/
 │   └── Project report.pdf
 │
 └── README.md
-```
+```## Project Files
+
+- [Power BI Interactive Report](powerbi/)
+- [Executive Presentation](presentation/)
+- [PDF Project Report](pdf/)
+- [Data Preparation Documentation](documentation/data-preparation.md)
+- [Data Model Documentation](documentation/data-model.md)
+- [DAX Measures Documentation](documentation/dax-measures.md)
 
 ## About the Analyst
 

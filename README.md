@@ -67,6 +67,14 @@ This project explores Northwind's historical business data to answer these quest
 - How does sales performance change over time?
 - What patterns can be identified in customer activity?
 - How does employee performance vary?
+- ## Project Files
+
+- [Power BI Interactive Report](powerbi/)
+- [Executive Presentation](presentation/)
+- [PDF Project Report](pdf/)
+- [Data Preparation Documentation](documentation/data-preparation.md)
+- [Data Model Documentation](documentation/data-model.md)
+- [DAX Measures Documentation](documentation/dax-measures.md)
 ## Key Findings
 
 The analysis produced the following findings:
@@ -135,12 +143,6 @@ northwind-business-analysis/
 └── README.md
 ```## Project Files
 
-- [Power BI Interactive Report](powerbi/)
-- [Executive Presentation](presentation/)
-- [PDF Project Report](pdf/)
-- [Data Preparation Documentation](documentation/data-preparation.md)
-- [Data Model Documentation](documentation/data-model.md)
-- [DAX Measures Documentation](documentation/dax-measures.md)
 
 ## About the Analyst
 

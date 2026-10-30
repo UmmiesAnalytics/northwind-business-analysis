@@ -43,16 +43,22 @@ This project explores Northwind's historical business data to answer these quest
 
 ## Dashboard Preview
 
-The project contains five analytical dashboard pages:
+## Dashboard Preview
 
-1. Executive Overview
-2. Product Performance
-3. Customer Analysis
-4. Sales Analysis
-5. Employee Performance
+### 1. Executive Overview
+![Executive Overview](screenshots/Executive%20Overview%20Northwind.png)
 
-Dashboard screenshots are available in the `screenshots` folder.
+### 2. Product Performance
+![Product Performance](screenshots/Product%20Performanace%20Northwind.png)
 
+### 3. Customer & Geographic Analysis
+![Customer and Geographic Analysis](screenshots/Customer%20%26%20Geographic%20Analysis.png)
+
+### 4. Sales Analysis
+![Sales Analysis](screenshots/Sales%20Analysis_Northwind.png)
+
+### 5. Employee & Operations
+![Employee and Operations](screenshots/Employee%20%26%20Operations.png)
 ## Key Business Questions
 
 - How is the business performing overall?
